@@ -1,4 +1,4 @@
 typography-trials
 =================
 
-doing type
+doing typography trials with css.
